@@ -1,0 +1,3 @@
+source ./nugets
+
+nuget Nancy.Owin 0.22.2
