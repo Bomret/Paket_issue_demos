@@ -1,0 +1,3 @@
+source ./nugets
+
+nuget Rx-Core 2.1.30214.0
